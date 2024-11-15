@@ -16,7 +16,7 @@ OWNER_ID = int(getenv("OWNER_ID"))
 PING_IMG = getenv("PING_IMG", "https://te.legra.ph/file/6f99c49bdb4679acad717.jpg")
 START_IMG = getenv("START_IMG", "https://te.legra.ph/file/f8ba75bdbb9931cbc8229.jpg")
 
-SESSION = getenv("SESSION", AgE3dlgALqM02yMVAwXLrnYjDtyGdTFlO-U33WEVUjDq5nnp0ag6B3Xzlzj_4Cr5ZHU-Z8xQsGnCcIFQ8hWHDyQype3GR9hLToZuykJnSYBk6lfp4T3E2UNoEbJTTKK1HYVICqtAlqfc1AsUYyhcK8blZbX2QAdJ6_uERrtdGJUXBEKeCwe7J2gONNMe9CRgETvX6z5QompUNb8syCJF4gxaYckBNHwU5DvbBudYIk_sEB6otsALB3pjiU_J8p0LqFoZ_JhSlBD35n9TQadOcqRZNKc9v0sJprDY02rBFhUJ3o6f4EmZ4RmeMNn1uj12twjqXg463zTNzwCDEQecYfoF2GkULQAAAAFjuAY9AA)
+SESSION = getenv("SESSION", AgE3dlgAFqUwmM6Ed2SN5BoPhmBCtzEIEZSes2dtBv2Tzd4LPCfiHuwjBCFfHerz7dEnSRX1n_aYejjufXu3z6-H6io3ESaDaLrZ_IfjzEriSsQbbCRb350UXRoneDWPs3UZwtm-qPCFgaZudTdrYObEhn23HQRHaKojjXgpDj92Kv8rYkDTCpTW7eUJRQ_TD4hco6WP0clLLCqSGKxeiPx4P7QU6-mvAmuZxs9gpqJO0iKazriv8duP35-MnOHPV3LoXRGkuf2D9UEY6QeXVTc6KusgliKhiAUycR2gBZM_V070MFwfiSyXwtvjnw42mT1RthfR6O1TLIEijC7SWYu4gzkwAAAAFjuAY9AA)
 
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DevilsHeavenMF")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/FallenAssociation")
